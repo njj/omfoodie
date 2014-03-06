@@ -2,7 +2,7 @@ title:            omfoodie
 tagline:
 description:      Yoga and Food.
 #Comment out url when working locally to resolve base urls correctly
-#url: http://jekyll.gtat.me
+url: http://www.omfoodie.com
 
 # Owner/author information
 owner:
@@ -10,7 +10,7 @@ owner:
   avatar:         avatar.png
   bio:            Yoga Teacher
   email:          rachel@omfoodie.com
-  disqus:         omfoodie
+  # disqus:         omfoodie
   # Plug in your disqus shortname!
 
 
